@@ -1,0 +1,27 @@
+{
+  "name": "wwbot",
+  "version": "1.0.0",
+  "description": "a whatsapp bot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Shafiq A. Manoocher",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/manoocher/wwbot/issues"
+  },
+  "homepage": "https://github.com/manoocher/wwbot#readme",
+  "dependencies": {
+    "wappermelon": "^3.0.1",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
